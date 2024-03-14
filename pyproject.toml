@@ -6,9 +6,9 @@ authors = ["Lucas Felipe <lfanjosus@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
-pydantic = "^1.8.2"
-fastapi = "^2.6.1"
+python = "^3.8"
+pydantic = "^2.6.1"
+fastapi = "^0.109.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
