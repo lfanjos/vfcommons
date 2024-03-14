@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "vfcommons"
-version = "0.1.0"
+version = "0.2.0"
 authors = [{name = "Lucas Felipe", email = "lfanjosus@gmail.com"}]
 description = "Standardized Pydantic Models and Errors for Enhanced Inter-API Communication"
 readme = "README.md"
